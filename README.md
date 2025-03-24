@@ -10,5 +10,3 @@ I then used a Mac-based LAMP stack called MAMP to create a database with MySQL o
 Using PHP, I wrote a script that connects to the database using a unique user profile that is set up with permissions to add values to the table without granting access to other commands. 
 
 Once this was working, I wrote another short PHP script that calls the database and prints out the contents when a user selects "View Collection" in the navigation bar.
-
-Future edits and things that I'd like to add are being tracked in the "Issues" section of GitHub. I am always open to feedback, questions, comments, or suggestions - thank you for taking a look! 
